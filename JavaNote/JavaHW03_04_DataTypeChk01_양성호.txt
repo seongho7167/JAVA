@@ -1,0 +1,11 @@
+## 변수 
+
+저장공간
+DataType : 숫자, 문자, 문자열
+01. Primitive Type (기본 타입)
+    >> 문자형 char
+         정수형 byte(8bit), short(2byte), int(4byte), long(8byte) ------> defualt: int
+         실수형 float(4byte), double(8byte)  ------> defualt: double
+         논리형 boolean(true, false)
+02. Reference Type (클래스 타입)
+     >> 모든 클래스 타입은 참조형 데이터타입이다.

@@ -1,0 +1,19 @@
+## wrapper class
+
+primitive type 을 class로 wrap 해놓은 것
+
+Integer: The Integer class wraps a value of the primitive type int in an object. An object of type Integer contains a single field whose type is int.
+
+Byte: The Byte class wraps a value of primitive type byte in an object. An object of type Byte contains a single field whose type is byte.
+
+Short: The Short class wraps a value of primitive type short in an object. An object of type Short contains a single field whose type is short.
+
+Long: The Long class wraps a value of the primitive type long in an object. An object of type Long contains a single field whose type is long.
+
+Double: The Double class wraps a value of the primitive type double in an object. An object of type Double contains a single field whose type is double.
+
+Float: The Float class wraps a value of primitive type float in an object. An object of type Float contains a single field whose type is float.
+
+Character: The Character class wraps a value of the primitive type char in an object. An object of class Character contains a single field whose type is char.
+
+Boolean: The Boolean class wraps a value of the primitive type boolean in an object. An object of type Boolean contains a single field whose type is boolean.

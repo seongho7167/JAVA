@@ -1,0 +1,45 @@
+기간: 125일 _ 25주
+----------------------------------------------------------------
+FrameWork: 환경, 코드 미리 만들어둔것 / 라이브러리
+Java Beginning 4주
+Java Swing 1주
+
+----------------------------------------------------------------------
+DB(SQL) 2주 >> MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, mariaDB and other database systems.
+
+Java Beginning		4주
+
+Java Swing		1주
+
+DB 			2주
+
+Java + DB MiniProject 	1 주 
+
+Html+JavaScript+Css 	2주
+
+Front-end UI/UX 설계 	2주
+
+웹 어플리케이션 Servlet/JSP 	4주
+
+Servlet/JSP MiniProject 	1주
+
+Spring 프로그래밍 		3주
+MyBitis			1주
+ 
+Final Project 		4주
+
+---------------------------------------------------------------------------------
+웹환경
+요청 Java(1번째), Swing(GUI), JSP(4주)
+Client -----> Server --- DB (CRUD) (2번째)
+
+응답
+Client <----- Server
+
+Front-end : HTML + CSS + JavaScript(3번째)
+
+----------------------------------------------------------------------------------
+Spring >> 3주, 
+MyBitis >> 1주,
+---------------------------------------------------------------------------------
+jQuery, React, Angular, JSON, Vue...
